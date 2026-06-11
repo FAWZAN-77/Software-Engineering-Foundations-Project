@@ -1,7 +1,6 @@
 Project Name: Student Management System (نظام إدارة الطلاب)
 
-GitHub Linkhttps://github.com/FAWZAN-77/Software-Engineering-Foundations-Project:
-
+https://github.com/FAWZAN-77/Software-Engineering-Foundations-Project
 Project Members:
 1. [Group Leader Name]  -  Fawazan Saed AL-malky - ID: [446003783]
 2. [Member 2 Name]       - Salem Ibrahim Al-Saedi -  ID: [445002653]
